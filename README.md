@@ -10,7 +10,6 @@
 ## esercizio  gioco dei dadi 
 
 1. mi creo due costanti (giocatore e computer) che devono essere uguali ad un numero randomico che vanno da 1 a 6 
-2. mi creo un ciclo for.
 3. inserisco una condizione if else 
 4. se giocatore ha un punteggio più alto del  computer giocatore ha vinto , altrimenti vince computer.
 
